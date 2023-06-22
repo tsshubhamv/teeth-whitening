@@ -20,6 +20,11 @@ def print_hi(name):
     print(dominate.__version__)
     print(visdom)
 
+# --dataroot /path/to/data
+# --model cyclegan
+# --dataset_mode unaligned
+# --preprocess none
+# --crop_size 256
 
 # Press the green button in the gutter to run the script.
 if __name__ == '__main__':
